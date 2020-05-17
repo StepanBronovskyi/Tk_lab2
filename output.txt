@@ -1,0 +1,43 @@
+openedBrace \ (
+idenA1 \ a1
+comma \ ,
+idenA2 \ a2
+closedBrace \ )
+openedBrace \ (
+idenB1 \ b1
+comma \ ,
+idenB2 \ b2
+closedBrace \ )
+openedBrace \ (
+comma \ ,
+closedBrace \ )
+iden222 \ 222
+comma \ ,
+iden22 \ 22
+comma \ ,
+openedBrace \ (
+comma \ ,
+idenA1 \ a1
+comma \ ,
+closedBrace \ )
+comma \ ,
+idenB2 \ b2
+comma \ ,
+iden123 \ 123
+openedBrace \ (
+idenA1 \ a1
+comma \ ,
+iden123 \ 123
+closedBrace \ )
+openedBrace \ (
+idenB2 \ b2
+comma \ ,
+iden22 \ 22
+closedBrace \ )
+openedBrace \ (
+openedBrace \ (
+openedBrace \ (
+iden22 \ 22
+
+Error: Unexepected identifier { in sentence 4 in  position 8
+
